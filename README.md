@@ -124,20 +124,6 @@ python app.py
 
 ---
 
-# 📸 Screenshots
-
-## Home Page
-
-> *(Add a screenshot here)*
-
----
-
-## Generated Brochure
-
-> *(Add another screenshot here)*
-
----
-
 # 💡 How It Works
 
 1. User enters a website URL.
